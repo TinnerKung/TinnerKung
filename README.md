@@ -14,7 +14,7 @@
 
 <h3 align="left">Stats:</h3>
 
-![Discord](https://img.shields.io/discord/699832081643077662?label=Sycer%20Network%20%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B0&style=flat-square)
+[![Discord](https://img.shields.io/discord/699832081643077662?label=Sycer%20Network%20%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B0&style=flat-square)](https://discord.gg/hGZ3HxCJER)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
