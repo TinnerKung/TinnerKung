@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TinnerKun</h1>
 <h3 align="center">นั้งว่างๆเขียน Code เล่นไปวันๆ</h3>
 
-<p align="center"> <img src="https://count.getloli.com/get/@TinnerKun?theme=gelbooru-h" alt="opecgame" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@TinnerKun?theme=gelbooru-h" alt="ohshit" /> </p>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/889652344202088458/889652692564180992/71479101_1.gif" alt="tinnerkung" /></a> </p>
 
