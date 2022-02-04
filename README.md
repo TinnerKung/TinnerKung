@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm TinnerKun</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F722&size=35&center=true&lines=Hi+%F0%9F%91%8B%2C+I'm+TinnerKun">
+</p>
 <h3 align="center">นั้งว่างๆเขียน Code เล่นไปวันๆ</h3>
 
 <p align="center"> <img src="https://count.getloli.com/get/@TinnerKun?theme=gelbooru-h" alt="ohshit" /> </p>
