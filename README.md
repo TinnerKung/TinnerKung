@@ -9,11 +9,6 @@
 
 <p align="center"><img src="https://metrics.lecoq.io/TinnerKun?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&lines=1&languages=1&followup=1&achievements=1&pagespeed=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBangkok" alt="TinnerKun"/></p>
 
-
-- 🏢 ทำงานอยู่ที่ [oHostNetwork Co., Ltd.](https://github.com/oHostNetwork-Co-Ltd)
-
-- 📫 How to reach me **tinnerx@sycer.network**
-
 <h3 align="left">Stats:</h3>
 
   <hr>
