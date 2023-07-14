@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://count.getloli.com/get/@TinnerKun?theme=gelbooru-h" alt="ohshit" /> </p>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/889652344202088458/1027180535199567892/116.png" alt="tinnerkung" /></a> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/TinnerKun/TinnerKun/main/00018-2463083229_out%20(1).png" alt="tinnerkung" /></a> </p>
 
 <p align="center"><img src="https://metrics.lecoq.io/TinnerKun?template=classic&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=upload.oiioioiiioooioio.download&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&config.timezone=Asia%2FBangkok" alt="TinnerKun"/></p>
 
