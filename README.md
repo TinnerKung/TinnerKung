@@ -9,15 +9,6 @@
 
 <p align="center"><img src="https://metrics.lecoq.io/TinnerKun?template=classic&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=upload.oiioioiiioooioio.download&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&config.timezone=Asia%2FBangkok" alt="TinnerKun"/></p>
 
-<h3 align="left">Stats:</h3>
-
-  <hr>
-  <p align="center">
-  <a href="https://sycer.network">
-        <img src="https://discord.c99.nl/widget/theme-1/426732291377725441.png">
-        <img src="https://discord.c99.nl/widget/theme-1/820131097835732995.png">
-   </a>
-  </p>
   <hr>
   <p align="center">
   <a href="https://discord.gg/hGZ3HxCJER">
