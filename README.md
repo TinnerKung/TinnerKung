@@ -7,7 +7,20 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/TinnerKun/TinnerKun/main/00018-2463083229_out%20(1).png" alt="tinnerkung" /></a> </p>
 
-<p align="center"><img src="https://metrics.lecoq.io/TinnerKun?template=classic&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=upload.oiioioiiioooioio.download&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&config.timezone=Asia%2FBangkok" alt="TinnerKun"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinnerkun&label=Profile%20views&color=0e75b6&style=flat" alt="tinnerkun" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinnerkun" alt="tinnerkun" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinnerkun&show_icons=true&locale=en&layout=compact" alt="tinnerkun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinnerkun&show_icons=true&locale=en" alt="tinnerkun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinnerkun&" alt="tinnerkun" /></p>
+
 
   <hr>
   <p align="center">
@@ -21,3 +34,5 @@
 <p align="left">
 <a href="https://discord.servwire.cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sycer" height="30" width="40" /></a>
 </p>
+
+
