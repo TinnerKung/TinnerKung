@@ -1,6 +1,7 @@
 {
 	"type": "photo",
     "author_name": "NEXT GEN CDN Proxy",
+    "description": "SycerNetwork ระบบ CDN NEXT GEN ที่มี SLA อยู่ที่ 99.9999% ความเร็วอยู่ในระดับที่น่าพิใจ",
 	"author_url": "https://cdn.revo.in.th",
 	"width": 1024,
 	"height": 768,
