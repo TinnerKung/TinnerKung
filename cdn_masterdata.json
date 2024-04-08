@@ -1,0 +1,19 @@
+{
+	"type": "photo",
+	"flickr_type": "photo",
+    "author_name": "NEXT GEN CDN Proxy",
+	"author_url": "https://cdn.revo.in.th",
+	"width": 1024,
+	"height": 768,
+	"url": "https://cdn.discordapp.com/attachments/1221454049228881951/1226838777830572052/397208e7f6e1930c.jpg",
+	"web_page": "https://cdn.revo.in.th",
+	"thumbnail_url": "https://cdn.discordapp.com/attachments/1221454049228881951/1226838777830572052/397208e7f6e1930c.jpg",
+	"thumbnail_width": 1920,
+	"thumbnail_height": 384,
+	"license": "All Rights Reserved",
+	"license_id": 0,
+	"version": "1.0",
+	"cache_age": 3600,
+	"provider_name": "Revolutions in Thailand (revo.in.th)",
+	"provider_url": "https://revo.in.th/"
+}
