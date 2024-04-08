@@ -1,0 +1,20 @@
+{
+	"type": "photo",
+	"flickr_type": "photo",
+	"title": "Dritestudio",
+	"author_name": "Test Embed By NEXT#8233",
+	"author_url": "https://revo.in.th/testonembed",
+	"width": 1024,
+	"height": 768,
+	"url": "https://cdn.dritestudio.co.th/api/img/banner",
+	"web_page": "https://dritestudio.co.th/",
+	"thumbnail_url": "https://cdn.dritestudio.co.th/api/img/banner",
+	"thumbnail_width": 1920,
+	"thumbnail_height": 1080,
+	"license": "All Rights Reserved",
+	"license_id": 0,
+	"version": "1.0",
+	"cache_age": 3600,
+	"provider_name": "NEXT#8233",
+	"provider_url": "https://revo.in.th/"
+}
