@@ -11,5 +11,9 @@
     "provider_name": "Revolutions in Thailand (revo.in.th)",
     "provider_url": "https://revo.in.th/",
     "author_name": "NEXT GEN CDN Proxy",
-    "author_url": "https://cdn.revo.in.th"
+    "author_url": "https://cdn.revo.in.th",
+    "thumbnail_url": "https://raw.githubusercontent.com/TinnerKun/TinnerKun/main/%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%20%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%93%E0%B8%B2.jpg",
+	"thumbnail_width": 1920,
+	"thumbnail_height": 384,
+    "version": "1.0"
 }
