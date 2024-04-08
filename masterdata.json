@@ -1,8 +1,8 @@
 {
 	"type": "photo",
 	"flickr_type": "photo",
-	"title": "Dritestudio",
-	"author_name": "Test Embed By NEXT#8233",
+    "description": "เช่า vps ราคาถูก มีทั้งระบบ Windows / Linux เริ่มต้นใช้งานเพียงวันละ 7 บาท เดือนละ 300 บาท เซิฟเวอร์ ของเราเป็น SSD ทั้งหมด บริการตลอด 24 ชม. Server Uptime 99% สร้างเซิฟเวอร์ภายใน 5 วินาที",
+	"author_name": "เช่า VPS HOSTING DDC ราคาถูก DRITESTUDIO - ไดรท์สตูดิโอ",
 	"author_url": "https://revo.in.th/testonembed",
 	"width": 1024,
 	"height": 768,
@@ -15,6 +15,6 @@
 	"license_id": 0,
 	"version": "1.0",
 	"cache_age": 3600,
-	"provider_name": "NEXT#8233",
+	"provider_name": "DRITESTUDIO CO., LTD",
 	"provider_url": "https://revo.in.th/"
 }
